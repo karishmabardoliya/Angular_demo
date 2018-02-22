@@ -1,0 +1,33 @@
+{ "products": [ 
+    {
+        "id":1,
+        "Name":"LED TV",
+        "Price":"50,000"
+    },
+    {
+        "id":2,
+        "Name":"Refrigerator",
+        "Price":"75,000"
+    },
+    {
+        "id":3,
+        "Name":"Air conditioner",
+        "Price":"45,000"
+    },
+    {
+        "id":4,
+        "Name":"Iron",
+        "Price":"1500"
+    },
+    {
+        "id":5,
+        "Name":"straightening iron",
+        "Price":"2000"
+    },
+    {
+        "id":6,
+        "Name":"Foundation",
+        "Price":"500"
+    }
+]
+}
